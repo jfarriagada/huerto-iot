@@ -1,0 +1,7 @@
+functions/
+.firebaserc
+database.rules.json
+firebase-debug.log
+firebase.js
+public/led_fire.py
+.DS_Store
